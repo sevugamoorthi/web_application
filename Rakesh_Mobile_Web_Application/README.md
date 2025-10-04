@@ -66,7 +66,7 @@ By default, the **Home Page** is shown first.
    ```
 2. Open the folder:
    ```bash
-   cd personal-portfolio
+   cd web_application/Rakesh_Mobile_Web_Application/
    ```
 3. Open `index.html` in any web browser:
    ```bash
