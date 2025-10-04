@@ -8,7 +8,7 @@ It’s built using **HTML**, **CSS**, and **Bootstrap 4**, with a clean and eleg
 ## 📁 Project Structure
 
 ```
-📦 Personal-Portfolio
+📦 Rakesh_Mobile_Web_Application
  ┣ 📜 index.html
  ┗ 📜 style.css
 ```
